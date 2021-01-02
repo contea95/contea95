@@ -7,7 +7,7 @@
 
 #### GOAL
 - Get 10 stars
-- **Daily Commit ***(IMPORTANT!!)*****
+- **Daily Commit ***(IMPORTANT!! Start January 1, 2020)*****
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=contea95)](https://github.com/anuraghazra/github-readme-stats)
 <!--
