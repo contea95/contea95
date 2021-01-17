@@ -5,7 +5,7 @@
 #### To Be Android/iOS Developer
 - Learning iOS Language and will make application
 
-#### GOAL
+#### GOAL🔥
 - Get 10 stars
 - **Daily Commit ***(IMPORTANT!! Start January 1, 2020)*****
 
